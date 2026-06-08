@@ -1,0 +1,64 @@
+OTIS 2.0 Journey Map: Recovered Property (Non‑Offense)
+
+Scenario: Found Wallet Turned In by a Traveler
+
+This concise journey map captures the experience of an Ohio State Highway Patrol Recovered Property Reporting Officer when someone turns in a lost wallet at a rest area.  Each stage highlights bright spots (things that work well), pain points (frustrations), and why it matters in a few words.  Use it to quickly understand where the process shines and where it breaks down.
+
+Persona
+
+Recovered Property Reporting Officer – The trooper who first receives recovered property.  They handle the initial intake, create the case in OTIS, complete the HB‑28 form, write the narrative, and secure the property until it moves to the evidence custodian.
+
+Journey Stages
+
+1. Property Turned In
+
+* Bright: Finder willingly hands over the wallet; clear handoff procedure.
+* Pain: Little info about where/when it was found; rushed intake in public.
+* Why: Sets chain‑of‑custody and tone for the entire case.
+
+2. Initial Assessment
+
+* Bright: Quick check of contents; guidelines for non‑offense vs. criminal.
+* Pain: Uncertain if it’s tied to a crime; no private space; odd items cause worry.
+* Why: Proper classification ensures the right workflow and keeps property from sitting untracked.
+
+3. Case Creation
+
+* Bright: Can create a case in the field; nature codes and forms help.
+* Pain: Many fields/screens; confusion about codes; limited connectivity or time.
+* Why: The case becomes the record of truth and kicks off downstream tasks.
+
+4. Documentation (HB‑28)
+
+* Bright: HB‑28 form captures property details and chain‑of‑custody.
+* Pain: Manual entry and duplicate fields; unsure whether to list every card; no autosave.
+* Why: Accurate documentation makes the property traceable and protects evidentiary integrity.
+
+5. Narrative Creation
+
+* Bright: Encourages context and reasoning behind decisions; helps others understand.
+* Pain: Time‑consuming free‑text entry; easy to lose work; unsure how much detail.
+* Why: A clear narrative provides transparency and protects the officer; gives context to custodians and courts.
+
+6. Temporary Storage
+
+* Bright: Secure lockers and packaging protocols exist.
+* Pain: Unclear which locker to use; labeling mistakes; unclear who logs it in the system.
+* Why: Secure, well‑labeled storage maintains chain‑of‑custody and quick retrieval.
+
+7. End‑of‑Shift & Handoff
+
+* Bright: Defined handoff process; supervisors review documentation.
+* Pain: Shift may end before documentation is complete; not sure if custodian received property.
+* Why: A clean handoff prevents rework and keeps the property moving through its lifecycle.
+
+Moments That Matter
+
+These steps are pivotal — small missteps here reverberate throughout the process:
+
+* Accepting and recording finder details – the foundation of chain‑of‑custody.
+* Classifying and creating the case – ensures the correct workflow and accountability.
+* Completing HB‑28 and narrative – captures the facts and context accurately.
+* Securing and handing off the property – keeps the chain intact for the next actor.
+
+By measuring the ease, emotion, and efficiency at each moment, teams can see whether OTIS improvements truly help troopers do their job.
